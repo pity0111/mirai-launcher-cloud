@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "manifest.json": {
+      "size": 19,
+      "sha256": "1c0e30095f39fc0da7484d615f86c79b951e0182699ed320aabe479001a697fa"
+    },
+    "siski.jpg": {
+      "size": 46286,
+      "sha256": "a61581c4f5c45c2b2789e46f54b7cce948813e26a6d90f8f0670bf9939277ac2"
+    }
+  }
 }
