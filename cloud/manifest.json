@@ -1,13 +1,3 @@
 {
-  "version": 1,
-  "files": {
-    "client/game.exe": {
-      "size": 73400320,
-      "sha256": "A1F3..."
-    },
-    "client/mods/mod1.jar": {
-      "size": 52428800,
-      "sha256": "9B2C..."
-    }
-  }
+  "files": {}
 }
